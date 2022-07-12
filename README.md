@@ -13,4 +13,4 @@ https://www.linkedin.com/in/bruno-nascimento-482a29160?lipi=urn%3Ali%3Apage%3Ad_
 
 email: brunosupa@gmail.com
 -
-https://api.whatsapp.com/send?phone=5521970434473
+https://api.whatsapp.com/send?phone=5521977167009
