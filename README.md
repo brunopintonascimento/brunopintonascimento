@@ -1,16 +1,25 @@
-- 👋 Olá, sou Bruno Nascimento
+👋 Olá! Eu sou Bruno Pinto Nascimento
 
-- 👀 Estou interessado em uma vaga de desenvolvedor 
+🔧 Desenvolvedor Júnior Back-End | Analista de Dados | Técnico em TI
 
-- 🌱 Atualmente estou cursando full stack 
+🧑‍💻 Sobre Mim
+Desenvolvedor júnior com experiência em setores diversificados. Apaixonado por transformar dados em insights valiosos. Atualmente, aprofundando minhas habilidades em Python e desenvolvendo projetos inovadores.
 
-- 💞️ Estou procurando emprego e querendo aprender cada vez mais sobre desenvolvimento.
-meus repositorios são deveres que tenho em curso .
--
-https://www.linkedin.com/in/bruno-nascimento-482a29160?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG5zlBm1sSeS4J3yyPEcw1Q%3D%3D
-
--
-
-email: brunosupa@gmail.com
--
-https://api.whatsapp.com/send?phone=5521977167009
+🔍 Habilidades Técnicas
+Linguagens: Java EE, JavaScript, Python
+Desenvolvimento Web: HTML5, CSS3, Spring Boot
+Banco de Dados: MySQL, PostgreSQL
+Ferramentas: Power BI, Postman, Git, Bootstrap
+🚀 Projetos
+Aplicações Web: Java EE, Spring Boot, MySQL/PostgreSQL
+Análise de Dados: Power BI, dashboards interativos
+📚 Formação
+Universidade Anhembi Morumbi: Análise e Desenvolvimento de Sistemas (interrompido)
+SENAC-RJ: Análise de Dados com Power BI, Programação em Python (em andamento)
+Cursos Adicionais: Helpdesk (SENAI-RJ), Fullstack (Step Computer Academy, interrompido)
+🌟 Diferenciais
+Visão prática e analítica
+Compromisso contínuo com o aprendizado
+🌐 Conecte-se Comigo
+LinkedIn: Bruno Pinto Nascimento
+GitHub: github.com/brunopintonascimento
