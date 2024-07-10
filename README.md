@@ -1,6 +1,6 @@
 👋 Olá! Eu sou Bruno Pinto Nascimento
 
-🔧 Desenvolvedor Júnior Back-End | Analista de Dados | Técnico em TI
+🔧 Desenvolvedor Júnior Back-End | Analista de Dados | Power Bi |Progamação em Python
 
 🧑‍💻 Sobre Mim
 Desenvolvedor júnior com experiência em setores diversificados. Apaixonado por transformar dados em insights valiosos. Atualmente, aprofundando minhas habilidades em Python e desenvolvendo projetos inovadores.
