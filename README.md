@@ -14,8 +14,8 @@ Ferramentas: Power BI, Postman, Git, Bootstrap
 Aplicações Web: Java EE, Spring Boot, MySQL/PostgreSQL
 Análise de Dados: Power BI, dashboards interativos
 📚 Formação
-Universidade Anhembi Morumbi: Análise e Desenvolvimento de Sistemas (interrompido)
-SENAC-RJ: Análise de Dados com Power BI, Programação em Python (em andamento)
+Universidade Anhembi Morumbi: Análise e Desenvolvimento de Sistemas (em andamento)
+SENAC-RJ: Análise de Dados com Power BI, Programação em Python.
 Cursos Adicionais: Helpdesk (SENAI-RJ), Fullstack (Step Computer Academy, interrompido)
 🌟 Diferenciais
 Visão prática e analítica
