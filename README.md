@@ -40,9 +40,7 @@ Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixon
   </a>
 </div>
 
-## 🏆 Animação de Contribuições
 
-![Snake animation](https://github.com/brunopintonascimento/brunopintonascimento/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Conecte-se Comigo
 
