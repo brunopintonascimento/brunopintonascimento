@@ -3,7 +3,10 @@
 🔧 **Desenvolvedor Júnior Back-End | Analista de Dados | Power BI | Programação em Python**
 
 ## 🧑‍💻 Sobre Mim  
-Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixonado por transformar dados em insights valiosos. Atualmente, estou aprimorando minhas habilidades em Python e desenvolvendo projetos inovadores.
+Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixonado por transformar dados em soluções funcionais e impactantes.  
+💬 *Atualmente desenvolvendo sites pessoais e ampliando conhecimentos com o curso de Data Science pela Oracle e Alura, unindo performance, visual moderno e inteligência de dados em soluções digitais.*
+
+---
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -19,17 +22,25 @@ Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixon
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
+---
+
 ## 📚 Formação
 
-🎓 **Universidade Anhembi Morumbi**: Análise e Desenvolvimento de Sistemas   
+🎓 **Universidade Anhembi Morumbi**: Análise e Desenvolvimento de Sistemas  
 🎓 **SENAC-RJ**: Análise de Dados com Power BI, Programação em Python  
 🎓 **Cursos Adicionais**: Helpdesk (SENAI-RJ), Fullstack (Step Computer Academy)  
+🎓 **Oracle & Alura**: Formação em Data Science (em andamento)
+
+---
 
 ## 🌟 Diferenciais
 
 ✔️ Visão prática e analítica  
 ✔️ Compromisso contínuo com o aprendizado  
 ✔️ Projetos inovadores e dinâmicos  
+✔️ Foco em performance e responsividade
+
+---
 
 ## 📊 Estatísticas GitHub
 
@@ -40,7 +51,7 @@ Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixon
   </a>
 </div>
 
-
+---
 
 ## 🌐 Conecte-se Comigo
 
@@ -60,4 +71,5 @@ Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixon
 </div>
 
 ---
-💡 "A tecnologia move o mundo, e eu estou pronto para fazer parte dessa mudança!"
+
+💡 *"A tecnologia move o mundo, e eu estou pronto para fazer parte dessa mudança!"*
