@@ -29,7 +29,7 @@ Sou um desenvolvedor júnior com experiência em setores diversificados. Apaixon
 🎓 **Universidade Anhembi Morumbi**: Análise e Desenvolvimento de Sistemas  
 🎓 **SENAC-RJ**: Análise de Dados com Power BI, Programação em Python  
 🎓 **Cursos Adicionais**: Helpdesk (SENAI-RJ), Fullstack (Step Computer Academy)  
-🎓 **Oracle & Alura**: Formação em Data Science (em andamento)
+🎓 **Oracle & Alura**: Formação em Data Science 
 
 ---
 
